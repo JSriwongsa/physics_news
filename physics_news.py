@@ -21,7 +21,6 @@ class PhysicsNews():
                 'link': link,
                 'published': published
             }
-            #pdb.set_trace()
             items.append(data_dict)
 
         return items
